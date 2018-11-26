@@ -1,0 +1,15 @@
+com/inatel/demos/GearReadFromKafka$GearPrinter.class
+com/inatel/demos/GearReadFromKafka.class
+com/inatel/demos/SendToTeams$TelemetryJsonParser.class
+com/inatel/demos/GearReadFromKafka$GearFlatMapper.class
+com/inatel/demos/WriteToKafka$SimpleStringGenerator.class
+com/inatel/demos/AvgPrinterJson.class
+com/inatel/demos/GearReadFromKafka$TelemetryJsonParser.class
+com/inatel/demos/SendToTeams.class
+com/inatel/demos/GearReadFromKafka$CounterReducer.class
+com/inatel/demos/StoreHDFS.class
+com/inatel/demos/ReadFromKafka.class
+com/inatel/demos/ReadFromKafka$1.class
+com/inatel/demos/WriteToKafka.class
+com/inatel/demos/ReadFromKafkaJson.class
+com/inatel/demos/GearReadFromKafka$GearReducer.class
