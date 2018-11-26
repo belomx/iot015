@@ -42,7 +42,7 @@ $ mvn clean package
 And run the Flink Consumer:
 
 ```
-$ mvn exec:java -Dexec.mainClass=com.grallandco.demos.ReadFromKafka
+$ mvn exec:java -Dexec.mainClass=com.grallandco.demos.GearReadFromKafka
 ```
 
 and Producer (from kafka folder): 
